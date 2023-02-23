@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning react js, python
 - 💞️ I’m looking to collaborate on small scale web projects 
-- 📫 How to reach me --still homeless--
+- 📫 How to reach me --via email--
 
 <!---
 dan-okello/dan-okello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
